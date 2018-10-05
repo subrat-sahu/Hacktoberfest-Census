@@ -1,4 +1,4 @@
-# Hacktoberfest Census
+## Hacktoberfest Census
 
 ### Thanks to all who participated this year, Happy #Hacktoberfest2017!
 
